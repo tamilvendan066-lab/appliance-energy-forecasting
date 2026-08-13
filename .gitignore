@@ -1,0 +1,18 @@
+# I don't commit the downloaded dataset - it's large and I re-download it
+# automatically anyway via data_utils.py
+data/*
+!data/.gitkeep
+
+# Python stuff I don't want tracked
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# OS junk
+.DS_Store
+
+# I'm keeping my real figures/outputs tracked since they're part of my
+# actual submitted results - not ignoring these two folders

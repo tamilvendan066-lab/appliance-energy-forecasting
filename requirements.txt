@@ -1,0 +1,12 @@
+requests
+pandas
+numpy
+matplotlib
+statsmodels
+scikit-learn
+xgboost
+# Part 7 (foundation model) - pick ONE:
+chronos-forecasting
+torch
+# timesfm            # alternative to chronos-forecasting
+# nixtla             # alternative (needs a free TimeGPT API key)
