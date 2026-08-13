@@ -88,4 +88,5 @@ to, since that's the only way to trust a backtest.
 
 ## Me
 
-[Your name] - [module code] - [submission date]
+Tamilvendan Sathyamoorthy
+
